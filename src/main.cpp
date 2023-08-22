@@ -97,6 +97,6 @@ int main() {
         board();
         if(_kbhit()){
             move();
-        };
+        }
     }
 }
